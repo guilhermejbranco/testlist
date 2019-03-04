@@ -1,13 +1,13 @@
 {
-  "main.css": "/guilhermejbranco/testlist.git/static/css/main.c5312cfb.chunk.css",
-  "main.js": "/guilhermejbranco/testlist.git/static/js/main.fc7493d8.chunk.js",
-  "main.js.map": "/guilhermejbranco/testlist.git/static/js/main.fc7493d8.chunk.js.map",
-  "runtime~main.js": "/guilhermejbranco/testlist.git/static/js/runtime~main.a1115169.js",
-  "runtime~main.js.map": "/guilhermejbranco/testlist.git/static/js/runtime~main.a1115169.js.map",
-  "static/js/2.68348865.chunk.js": "/guilhermejbranco/testlist.git/static/js/2.68348865.chunk.js",
-  "static/js/2.68348865.chunk.js.map": "/guilhermejbranco/testlist.git/static/js/2.68348865.chunk.js.map",
-  "index.html": "/guilhermejbranco/testlist.git/index.html",
-  "precache-manifest.8ee89c8223d641b6be6aa6aef7f172e4.js": "/guilhermejbranco/testlist.git/precache-manifest.8ee89c8223d641b6be6aa6aef7f172e4.js",
-  "service-worker.js": "/guilhermejbranco/testlist.git/service-worker.js",
-  "static/css/main.c5312cfb.chunk.css.map": "/guilhermejbranco/testlist.git/static/css/main.c5312cfb.chunk.css.map"
+  "main.css": "/test/static/css/main.c5312cfb.chunk.css",
+  "main.js": "/test/static/js/main.fc7493d8.chunk.js",
+  "main.js.map": "/test/static/js/main.fc7493d8.chunk.js.map",
+  "runtime~main.js": "/test/static/js/runtime~main.a03dc12c.js",
+  "runtime~main.js.map": "/test/static/js/runtime~main.a03dc12c.js.map",
+  "static/js/2.68348865.chunk.js": "/test/static/js/2.68348865.chunk.js",
+  "static/js/2.68348865.chunk.js.map": "/test/static/js/2.68348865.chunk.js.map",
+  "index.html": "/test/index.html",
+  "precache-manifest.40f5cd84b645a578fb51e1180a6b0c2c.js": "/test/precache-manifest.40f5cd84b645a578fb51e1180a6b0c2c.js",
+  "service-worker.js": "/test/service-worker.js",
+  "static/css/main.c5312cfb.chunk.css.map": "/test/static/css/main.c5312cfb.chunk.css.map"
 }
